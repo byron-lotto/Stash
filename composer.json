@@ -1,5 +1,5 @@
 {
-  "name": "tedivm/stash",
+  "name": "lotto/stash",
   "description": "The place to keep your cache.",
   "keywords": [
     "cache",
@@ -11,7 +11,7 @@
     "psr-6",
     "psr6"
   ],
-  "homepage": "http://github.com/tedious/Stash",
+  "homepage": "http://github.com/byron-lotto/Stash",
   "type": "library",
   "license": "BSD-3-Clause",
   "authors": [
